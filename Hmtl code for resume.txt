@@ -1,0 +1,121 @@
+                                                                      Hmtl and Css code for resume
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="resu.css">
+		<meta name ="viewport" content = "width=device-width,initial-scale=1.0">
+
+	</head>
+	<body>
+		<div class ="main">
+			<div class="left">
+				<br>
+				
+			    <div class = "Box-1">
+			    	<div class = "heading">
+			    		<p>CONTACT</p>
+			    	</div>
+                   <p  class ="p1" ><i style = "font-size: 40px;"class ="material-icons icons1" >CALL :</i> 9392830247</p>
+                   <p class ="p1"><i class ="material-icons icons1">EMAIL: </i>21pa5a0229<br>
+                   	@vishnu,edu.in</p> 
+			</div>
+			<div class ="box-1">
+				<div class ="heading">
+					<p>LANGUAGES</p>
+				</div>
+				<P class="p1">HTML,CSS
+				<div class = "skill-container">
+					<div class="skill html ,css".></div>
+				</div>
+			    </P>
+			    <P class="p1">JAVA
+				<div class = "skill-container">
+					<div class="skill js".></div>
+				</div>
+			    </P>
+			    <P class="p1">PYTHON
+				<div class = "skill-container">
+					<div class="skill python".></div>
+				</div>
+			    </P>
+
+			</div>
+			<br>
+			<div class ="box-1">
+				<div class ="heading">
+					<p>TECHNICAL SKILLS</p>
+				</div>
+				<P class="p1">SCADA
+				<div class = "skill-container">
+					<div class="skill catia".></div>
+				</div>
+			    </P>
+			    <P class="p1">MATLAB
+				<div class = "skill-container">
+					<div class="skill ansys".></div>
+				</div>
+			    </P>
+			    <P class="p1">CIRCUITS SOLVING
+				<div class = "skill-container">
+					<div class="skill autocad".></div>
+				</div>
+			    </P>
+			</div>
+		</div>
+		<div class ="right">
+			<div class="name-div">
+				<h1><pre> SARVASIDDI NAGABHUSHANAM</pre></h1>
+			</div>
+
+		
+			<div class="p2">
+				<h2><p>Resume Highlights:</h2><pre style="font-size: 30px;"><ul><li>Learnt basic Python, JavaScript, HTML, CSS on vedic dev.com.</li><li>Good Communication Skills,Presentation Skills,attitude toward<br>leadership, authorisation and delegation, conflict resolution<br>and negotiation and a very good team worker.</li></ul><h2 style="font-size: 38px;"><b>Personal Information:</b></h2><ul><li>A young, determined hard and smart working person. I believe<br>in task based roles and complete ownership of work<br><li>Language Known:English and Telugu</li><li>Hobbies:I love reading Finance and IT related books/magazines<br>playing Chess, swimming, listening music,surfing Internet and<br>self-learning through e-courses.</li> </ul></pre><ins>
+			</div><div class ="edu"><h2><b>Educational Qualifications:</h2><table>
+					<tr id="heading">
+						<td ><b>Qualification</b></td>
+						<td ><b>Institute Name</b></td>
+						<td ><b>Percentage</b></td>
+						<td ><b>Year of passing</b></td>
+					</tr>
+					<tr>
+						<td>SSC</td>  
+						<td><pre>Prasanthi HIGH SCHOOL</pre></td>
+						<td>9.5 GPA</td>
+						<td>2018</td>
+					</tr>
+					<tr>
+						<td>DIPLOMA(ELECTRICAL)</td>
+						<td>RAJIV GANDHI POLYTECHNIC</td>
+						<td>91</td>
+						<td>2018-2021</td>
+					</tr>
+					<tr>
+						<td>B.Tech(ELECTRICAL)</td>
+						<td>Vishnu Institute of Technology</td>
+						<td>8.7 CGPA</td>
+						<td>2021-2024</td>
+					</tr>
+
+				</table></pre>
+				 </p>
+            <h2>Projects/Awards:</h3>
+            <p >
+            <ul style="font-size: 32px;">
+                <li>Internet of things project certificate</li>
+                <li>Electrical Voting Machine Project</li>
+                <li>Industrial Training from 33/11kv substation</li></ul>
+            </p>
+			<div class="declaration">
+			    <h2><b>Declaration:</b></h2>
+			    <pre style="font-size: 25px;"><b>I hereby declare that the details furnished above are true and correct to<br> the best of my knowledge and belief.</b></pre>
+			</p>
+		        </div>
+			    </div>
+
+		        </div>
+		
+
+				
+
+		
+	</body>
+</html>
